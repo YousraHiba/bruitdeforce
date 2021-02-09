@@ -1,0 +1,22 @@
+{
+  "name": "bruitdeforce",
+  "version": "1.0.0",
+  "description": "bruit de force tp",
+  "main": "tp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YousraHiba/bruitdeforce.git"
+  },
+  "author": "hiba yousra ouili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YousraHiba/bruitdeforce/issues"
+  },
+  "homepage": "https://github.com/YousraHiba/bruitdeforce#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
